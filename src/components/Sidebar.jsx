@@ -68,7 +68,7 @@ export default function Sidebar({ role }) {
         })}
       </nav>
 
-      {/* Settings and Logout */}
+      {/* Logout */}
       <div className="p-3 border-t border-slate-800/50 space-y-2">
         
         <button 
